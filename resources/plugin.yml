@@ -1,0 +1,11 @@
+name: Crafting
+version: '${project.version}'
+main: net.restartboot.crafting.main.MainClass
+api-version: 1.16
+authors: [ RestartBoot ]
+description: create custom crafting recepies
+
+commands:
+  recipe:
+    description: crafting menu
+
